@@ -33,32 +33,32 @@ Sunshine_is_bright!2025
 
 ## 📸 Screenshots Details
 
-All screenshots of password strength results are saved in the `screenshots/` folder.
+All screenshots of password strength results are saved in the root folder.
 
 ---
 
 ### Password: hello123  
-![hello123 password strength](screenshots/password1_hello123_howsecure.png)
+![hello123 password strength](password1_hello123_howsecure.png)
 
 ---
 
 ### Password: P@ssw0rd  
-![P@ssw0rd password strength](screenshots/password2_P@ssw0rd_howsecure.png)
+![P@ssw0rd password strength](password2_P@ssw0rd_howsecure.png)
 
 ---
 
 ### Password: GkT!z9Xb&Yv2  
-![GkT!z9Xb&Yv2 password strength](screenshots/password3_GkT!z9Xb&Yv2_howsecure.png)
+![GkT!z9Xb&Yv2 password strength](password3_GkT!z9Xb&Yv2_howsecure.png)
 
 ---
 
 ### Password: Sunshine_is_bright!2025  
-![Sunshine_is_bright!2025 password strength](screenshots/password4_Sunshine_is_bright!2025_howsecure.png)
+![Sunshine_is_bright!2025 password strength](password4_Sunshine_is_bright!2025_howsecure.png)
 
 ---
 
 ### Password: 12345678  
-![12345678 password strength](screenshots/password5_12345678_howsecure.png)
+![12345678 password strength](password5_12345678_howsecure.png)
 
 ---
 
