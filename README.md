@@ -1,4 +1,3 @@
-# CyberSecurity-Password-and-Evaluate-Its-Strength.
 # 🔐 Cyber Security Internship – Task 6
 
 ## 🧠 Task: Create a Strong Password and Evaluate Its Strength
@@ -34,15 +33,32 @@ Sunshine_is_bright!2025
 
 ## 📸 Screenshots Details
 
-All screenshots of password strength results are saved in the `screenshots/` folder with the following filenames to keep it organized and easy to understand:
+All screenshots of password strength results are saved in the `screenshots/` folder.
 
-| Filename                                  | Description                             |
-|-------------------------------------------|-----------------------------------------|
-| `password1_hello123_howsecure.png`         | Screenshot showing strength of "hello123" password using HowSecureIsMyPassword tool |
-| `password2_P@ssw0rd_howsecure.png`         | Screenshot showing strength of "P@ssw0rd" password |
-| `password3_GkT!z9Xb&Yv2_howsecure.png`     | Screenshot showing strength of "GkT!z9Xb&Yv2" password |
-| `password4_Sunshine_is_bright!2025_howsecure.png` | Screenshot showing strength of "Sunshine_is_bright!2025" password |
-| `password5_12345678_howsecure.png`         | Screenshot showing strength of "12345678" password |
+---
+
+### Password: hello123  
+![hello123 password strength](screenshots/password1_hello123_howsecure.png)
+
+---
+
+### Password: P@ssw0rd  
+![P@ssw0rd password strength](screenshots/password2_P@ssw0rd_howsecure.png)
+
+---
+
+### Password: GkT!z9Xb&Yv2  
+![GkT!z9Xb&Yv2 password strength](screenshots/password3_GkT!z9Xb&Yv2_howsecure.png)
+
+---
+
+### Password: Sunshine_is_bright!2025  
+![Sunshine_is_bright!2025 password strength](screenshots/password4_Sunshine_is_bright!2025_howsecure.png)
+
+---
+
+### Password: 12345678  
+![12345678 password strength](screenshots/password5_12345678_howsecure.png)
 
 ---
 
@@ -124,4 +140,5 @@ This task reinforced the importance of strong passwords by testing various passw
 
 ---
 
+## 📂 Folder Structure
 
